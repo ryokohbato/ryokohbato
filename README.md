@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm ryokohbato🐤 from Japan
+
+<img src="https://github-readme-stats.vercel.app/api?username=ryokohbato">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryokohbato">
+
+- Twitter : [ryokohbato](https://twitter.com/ryokohbato)
 
 <!--
 **ryokohbato/ryokohbato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
