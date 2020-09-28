@@ -1,4 +1,4 @@
-### Hi there 👋 I'm ryokohbato🐤 from Japan
+### Hi there 👋 I'm ryokohbato🐤 from Japan🎌
 
 <img src="https://github-readme-stats.vercel.app/api?username=ryokohbato">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryokohbato">
