@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ryokohbato&show_icons=true&theme=react">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryokohbato&layout=compact&theme=react">
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=ryokohbato&theme=monokai&column=3">
+<img src="https://github-profile-trophy.vercel.app/?username=ryokohbato&theme=monokai&margin-w=10">
 
 - Twitter : [ryokohbato](https://twitter.com/ryokohbato)
 
