@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm ryokohbato🐤 from Japan🎌
 
 <img src="https://github-readme-stats.vercel.app/api?username=ryokohbato&show_icons=true&theme=react">
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryokohbato&layout=compact&theme=react">
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=ryokohbato&theme=monokai&column=3">
